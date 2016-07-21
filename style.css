@@ -1,0 +1,55 @@
+body {
+  background-color:#436780;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  background-color:#FEFFEF;
+  font-family: 'Source Code Pro', ;
+}
+
+.screen {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: right;
+  border: solid 1px gray;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  background-color: #7C8F9E;
+  color: #fff;
+}
+
+.btn {
+  font-size: 24px;
+  padding: 10px;
+}
+
+.button {
+  border: solid 1px gray;
+  text-align: center;
+  margin: 10px;
+  border-radius: 4px;
+  font-size: 24px;
+}
+
+.operation {
+  font-weight: bold;
+  background-color: #7C8F9E;
+  color: #fff;
+  
+}
+
+.clear {
+  background-color:#E17970;
+  color: #FFF;
+}
+
+.container {
+  border: solid 1px gray;
+  padding: 20px;
+}
+
+a {
+  display: block;
+}
